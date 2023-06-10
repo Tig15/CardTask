@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CardTask/static/css/main.66314947.css",
+    "main.js": "/CardTask/static/js/main.b9e9de91.js",
+    "index.html": "/CardTask/index.html",
+    "main.66314947.css.map": "/CardTask/static/css/main.66314947.css.map",
+    "main.b9e9de91.js.map": "/CardTask/static/js/main.b9e9de91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66314947.css",
+    "static/js/main.b9e9de91.js"
+  ]
+}
